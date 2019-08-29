@@ -1,1 +1,5 @@
-# Api-blog-post-RoR-using-TDD
+# API blog post using TDD
+
+entities:
+* users
+* posts
